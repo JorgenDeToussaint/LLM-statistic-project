@@ -1,0 +1,94 @@
+GPU Model,VRAM (GB),CUDA Support,ML Class
+NVIDIA GeForce RTX 3060,12,Tak,LLM Pro
+NVIDIA GeForce RTX 4060 Laptop GPU,8,Tak,LLM Basic
+NVIDIA GeForce RTX 4060,8,Tak,LLM Basic
+NVIDIA GeForce GTX 1650,4,Tak,ML only
+NVIDIA GeForce RTX 4060 Ti,8,Tak,LLM Basic
+NVIDIA GeForce RTX 3060 Ti,8,Tak,LLM Basic
+NVIDIA GeForce RTX 3070,8,Tak,LLM Basic
+NVIDIA GeForce RTX 3050,8,Tak,LLM Basic
+NVIDIA GeForce RTX 3060 Laptop GPU,6,Tak,ML only
+NVIDIA GeForce RTX 2060,6,Tak,ML only
+NVIDIA GeForce RTX 4070,12,Tak,LLM Pro
+NVIDIA GeForce GTX 1060,6,Tak,ML only
+AMD Radeon Graphics,2,Nie,
+Intel Iris Xe Graphics,1,Nie,
+NVIDIA GeForce RTX 3080,10,Tak,LLM Basic
+NVIDIA GeForce GTX 1050 Ti,4,Tak,ML only
+NVIDIA GeForce GTX 1660 SUPER,6,Tak,ML only
+NVIDIA GeForce RTX 4070 SUPER,12,Tak,LLM Pro
+Intel(R) UHD Graphics,1,Nie,
+AMD Radeon(TM) Graphics,1,Nie,
+NVIDIA GeForce GTX 1660 Ti,6,Tak,ML only
+NVIDIA GeForce RTX 3070 Ti,8,Tak,LLM Basic
+NVIDIA GeForce RTX 4070 Ti,12,Tak,LLM Pro
+NVIDIA GeForce RTX 4050 Laptop GPU,6,Tak,ML only
+NVIDIA GeForce RTX 2070 SUPER,8,Tak,LLM Basic
+NVIDIA GeForce RTX 2060 SUPER,8,Tak,LLM Basic
+NVIDIA GeForce GTX 1070,8,Tak,LLM Basic
+NVIDIA GeForce RTX 4070 Laptop GPU,8,Tak,LLM Basic
+NVIDIA GeForce RTX 4090,24,Tak,LLM Pro
+NVIDIA GeForce GTX 1050,2,Tak,
+NVIDIA GeForce RTX 3050 Ti Laptop GPU,4,Tak,ML only
+AMD Radeon RX 6600,8,Nie,
+NVIDIA GeForce RTX 4080 SUPER,16,Tak,LLM Pro
+AMD Radeon RX 580,8,Nie,
+NVIDIA GeForce RTX 2070,8,Tak,LLM Basic
+NVIDIA GeForce RTX 4080,16,Tak,LLM Pro
+NVIDIA GeForce GTX 1660,6,Tak,ML only
+NVIDIA GeForce RTX 3080 Ti,12,Tak,LLM Pro
+AMD Radeon RX 6700 XT,12,Nie,
+NVIDIA GeForce RTX 4070 Ti SUPER,16,Tak,LLM Pro
+NVIDIA GeForce GTX 1080,8,Tak,LLM Basic
+NVIDIA GeForce RTX 3070 Laptop GPU,8,Tak,LLM Basic
+AMD Radeon RX 5700 XT,8,Nie,
+NVIDIA GeForce GTX 1650 Ti,4,Tak,ML only
+NVIDIA GeForce RTX 3050 Laptop GPU,4,Tak,ML only
+AMD Radeon RX 580 2048SP,4,Nie,
+NVIDIA GeForce RTX 3090,24,Tak,LLM Pro
+AMD Radeon RX 570,4,Nie,
+NVIDIA GeForce GTX 1080 Ti,11,Tak,LLM Basic
+Intel UHD Graphics 620,1,Nie,
+AMD Radeon Vega 8 Graphics,2,Nie,
+AMD Radeon RX 7900 XTX,24,Nie,
+NVIDIA GeForce GTX 1650 SUPER,4,Tak,ML only
+NVIDIA GeForce RTX 2080 SUPER,8,Tak,LLM Basic
+NVIDIA GeForce RTX 2050,4,Tak,ML only
+NVIDIA GeForce RTX 2080,8,Tak,LLM Basic
+AMD Radeon RX 6600 XT,8,Nie,
+NVIDIA GeForce GTX 970,4,Tak,ML only
+NVIDIA GeForce RTX 2080 Ti,11,Tak,LLM Basic
+Intel UHD Graphics 630,1,Nie,
+AMD Radeon RX 6650 XT,8,Nie,
+NVIDIA GeForce GT 1030,2,Tak,
+NVIDIA GeForce RTX 3070 Ti Laptop GPU,8,Tak,LLM Basic
+NVIDIA GeForce GTX 1070 Ti,8,Tak,LLM Basic
+AMD Radeon RX 6750 XT,12,Nie,
+AMD Radeon RX 6800 XT,16,Nie,
+NVIDIA GeForce GTX 960,2,Tak,
+AMD Radeon RX 550,2,Nie,
+NVIDIA GeForce RTX 3050 6GB Laptop GPU,6,Tak,ML only
+AMD Radeon Vega 3 Graphics,1,Nie,
+AMD Radeon (TM) Graphics,1,Nie,
+NVIDIA GeForce GTX 750 Ti,2,Tak,
+Intel HD Graphics 520,1,Nie,
+Intel HD Graphics 620,1,Nie,
+NVIDIA GeForce RTX 4080 Laptop GPU,12,Tak,LLM Pro
+NVIDIA GeForce GT 730,1,Tak,
+AMD Radeon RX 6900 XT,16,Nie,
+Intel HD Graphics 4600,1,Nie,
+Intel(R) Arc(TM) Graphics,6,Nie,
+AMD Radeon 780M Graphics,8,Nie,
+AMD Radeon RX 6800,16,Nie,
+Intel UHD Graphics 600,1,Nie,
+AMD Radeon RX 6500 XT,4,Nie,
+AMD Radeon RX 5600 XT,6,Nie,
+NVIDIA GeForce RTX 3050 Ti,8,Tak,LLM Basic
+AMD Radeon RX 6750 GRE 12GB,12,Nie,
+AMD Radeon RX 5500 XT,8,Nie,
+AMD Radeon RX 7700 XT,12,Nie,
+NVIDIA GeForce RTX 5080,16,Tak,LLM Pro
+NVIDIA GeForce RTX 5070,12,Tak,LLM Pro
+NVIDIA GeForce RTX 5070 Ti,16,Tak,LLM Pro
+AMD Radeon RX 7800 XT,16,Nie,
+AMD Radeon RX 6750 GRE 10GB,10,Nie,
