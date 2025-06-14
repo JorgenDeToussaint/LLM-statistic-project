@@ -16,3 +16,15 @@ Zainstaluj wymagane biblioteki:
 
 ```bash
 pip install -r requirements.txt
+
+## Środowisko i wymagania
+
+Projekt uruchamiany lokalnie z wykorzystaniem:
+
+- Python 3.10+
+- Jupyter Notebook
+- Biblioteki: pandas, matplotlib, seaborn, openpyxl, requests, beautifulsoup4
+
+Pliki danych wejściowych znajdują się w folderze `/data`.
+
+> Uwaga: Wersje kart graficznych i ich parametry VRAM/CUDA zostały przypisane ręcznie na podstawie TechPowerUp i stron producentów.
