@@ -16,7 +16,7 @@ Zainstaluj wymagane biblioteki:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Środowisko i wymagania
 
 Projekt uruchamiany lokalnie z wykorzystaniem:
