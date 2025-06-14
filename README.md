@@ -28,3 +28,7 @@ Projekt uruchamiany lokalnie z wykorzystaniem:
 Pliki danych wejściowych znajdują się w folderze `/data`.
 
 > Uwaga: Wersje kart graficznych i ich parametry VRAM/CUDA zostały przypisane ręcznie na podstawie TechPowerUp i stron producentów.
+
+## Cel projektu
+
+Celem projektu jest analiza możliwości lokalnego uruchamiania modeli językowych (LLM) na podstawie najpopularniejszych GPU według ankiety Steam. Projekt klasyfikuje sprzęt na cztery klasy ML/LLM, uwzględniając m.in. VRAM, wsparcie CUDA/ROCm oraz architekturę.
